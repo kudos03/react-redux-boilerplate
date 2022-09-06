@@ -2,7 +2,7 @@
 
 I didn't something special just arranged some file according to I like it. Give your feedback for this folder structure
 
-#Parent Repo Link
+# Repo's Origin
 
 https://github.com/reduxjs/redux-essentials-counter-example/tree/master/
 
