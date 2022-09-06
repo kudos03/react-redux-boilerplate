@@ -1,6 +1,6 @@
 ## Available Scripts
 
-I didn't something special just arranged some file according to I like it. Give your feedback for this folder structure
+I didn't something special, just arranged files according to strucutre I like it. Give your feedback for this folder structure
 
 # Repo's Origin
 
